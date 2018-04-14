@@ -30,6 +30,7 @@ public class TesteandoListas {
 			System.out.println("Pecorrendo..."+ aula);
 			});
 		
+		
 		Collections.sort(aulas);		
 		System.out.println(aulas);
 		
